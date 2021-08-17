@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623737641 source:c:\users\feekra\desktop\compiler design\18-39010-3_cd lab1_section\problem2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
